@@ -1,10 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, my name is William! 😄
-
-## <p>VC @ BDC | RippleX | Consensys & XRP Ambassador | Solana Global Fellow | 30x Hackathon Winner | 4x SWE | CS @ UWaterloo</p>
-
-Feel free to check out https://williamwangme.netlify.app/ where I showcase my passion for technology along with a brief summary of my side projects.
-
-I am in my 3B term studying Computer Science at Waterloo. I love musicals, investing, and improving the lives of others through technology!
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ## Languages and Tools:
 <p align="left">
