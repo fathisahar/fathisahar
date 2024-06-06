@@ -53,6 +53,3 @@
     <img src="https://redhat.gallerycdn.vsassets.io/extensions/redhat/ansible/24.5.3000000/1714755427041/Microsoft.VisualStudio.Services.Icons.Default" alt="bash" width="40" height="40"/>
   </a>
 
-
-
-<! add ocaml, assembly>
