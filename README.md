@@ -50,7 +50,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"
   />
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVue.js&psig=AOvVaw1_DbkR_9e7DU6wFH1PRF5C&ust=1717721315333000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj01tjgxYYDFQAAAAAdAAAAABAE" alt="vue" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="vue" width="40" height="40"/>
   </a>
 
 
