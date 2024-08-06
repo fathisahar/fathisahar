@@ -1,47 +1,47 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<pre style="font-family: monospace; font-size:20px;">
-[fathisahar@github ~] whoami
+<pre style="font-family: monospace; font-size:24px;">
+[fathisahar@github ~] whoami  </pre>
 Sahar Fathi, third year software engineering student at McGill University. 
 
-[fathisahar@github ~] cd projects
+<pre style="font-family: monospace; font-size:24px;"> [fathisahar@github ~] cd projects
 
 [fathisahar@github projects] cat AssetPlus
 </pre>
 **AssetPlus**
 Description 
 
-<pre style="font-family: monospace; font-size:20px;">
+<pre style="font-family: monospace; font-size:24px;">
 [fathisahar@github projects] cat FitHub
 </pre>
 **FitHub**
 Description 
 
-<pre style="font-family: monospace; font-size:20px;">
+<pre style="font-family: monospace; font-size:24px;">
 [fathisahar@github projects] cat KitchenHelper
 </pre>
 **KitchenHelper**
 Description 
 
-<pre style="font-family: monospace; font-size:20px;">
+<pre style="font-family: monospace; font-size:24px;">
 [fathisahar@github projects] cat QuestBit
 </pre>
 **QuestBit**
 Description 
 
-<pre style="font-family: monospace; font-size:20px;">
+<pre style="font-family: monospace; font-size:24px;">
 [fathisahar@github projects] cat .Capacity Calculations
 </pre>
 **.Capacity Calculations**
 Description 
 
-<pre style="font-family: monospace; font-size:20px;">
+<pre style="font-family: monospace; font-size:24px;">
 [fathisahar@github projects] cat .Lab Nodes Booking
 </pre>
 **.Lab Nodes Booking**
 Description 
 
-<pre style="font-family: monospace; font-size:20px;">
+<pre style="font-family: monospace; font-size:24px;">
 [fathisahar@github projects] cat .Linux OS Automated Install
 </pre>
 **.Linux OS Automated Install**
