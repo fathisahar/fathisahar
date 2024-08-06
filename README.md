@@ -36,11 +36,10 @@ me = Sahar()
 me.say_hi()
 ```
 
-# about me
+## about me
 
 I'm a third year software engineering student at McGill University. If I'm not studying or coding, then hopefully I'm somewhere travelling. 
 
 I love projects that allow creativity and learning, and I love projects that have the potential of making someone's life a bit easier. 
 
-
-
+See my pinned repositories below for projects I've worked on. 
