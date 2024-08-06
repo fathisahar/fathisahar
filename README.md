@@ -1,21 +1,52 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<pre style="font-family: monospace;">
+<pre style="font-family: monospace; font-size:20px;">
 [fathisahar@github ~] whoami
 Sahar Fathi, third year software engineering student at McGill University. 
 
 [fathisahar@github ~] cd projects
-[fathisahar@github projects] ls -la
 
-McGill Java-JavaFX-JSON AssetPlus
-McGill Vue.js-JavaScript-PostgreSQL-Postman-HTTP FitHub
-Other React-Python-Flask-MySQL KithenHelper
-Other React_Native-AppWrite-TypeScript QuestBit
-
-Dell Agile-Product_Management-Feature_Planning .Capacity Calculations
-Nokia Python-Linux-Ansible-HP_iLO  .Lab Nodes Booking 
-Nokia Python-Linux-Ansible-HP_iLO  .Linux OS Automated Install
+[fathisahar@github projects] cat AssetPlus
 </pre>
+**AssetPlus**
+Description 
+
+<pre style="font-family: monospace; font-size:20px;">
+[fathisahar@github projects] cat FitHub
+</pre>
+**FitHub**
+Description 
+
+<pre style="font-family: monospace; font-size:20px;">
+[fathisahar@github projects] cat KitchenHelper
+</pre>
+**KitchenHelper**
+Description 
+
+<pre style="font-family: monospace; font-size:20px;">
+[fathisahar@github projects] cat QuestBit
+</pre>
+**QuestBit**
+Description 
+
+<pre style="font-family: monospace; font-size:20px;">
+[fathisahar@github projects] cat .Capacity Calculations
+</pre>
+**.Capacity Calculations**
+Description 
+
+<pre style="font-family: monospace; font-size:20px;">
+[fathisahar@github projects] cat .Lab Nodes Booking
+</pre>
+**.Lab Nodes Booking**
+Description 
+
+<pre style="font-family: monospace; font-size:20px;">
+[fathisahar@github projects] cat .Linux OS Automated Install
+</pre>
+**.Linux OS Automated Install**
+Description 
+
 
 ## Languages and Tools:
 <p align="left">
