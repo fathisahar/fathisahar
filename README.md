@@ -38,7 +38,7 @@ me.say_hi()
 
 ## about me
 
-I'm a third year software engineering student at McGill University. If I'm not studying or coding, then hopefully I'm somewhere travelling. 
+I'm a third year software engineering student at McGill University. If I'm not studying or coding, then hopefully I'm out travelling. If I'm not doing either three, then I really hope I'm playing badminton. 
 
 I love projects that allow creativity and learning, and I love projects that have the potential of making someone's life a bit easier. 
 
