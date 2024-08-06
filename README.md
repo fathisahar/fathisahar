@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<pre>
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -33,4 +33,3 @@ class Sahar:
 
 me = Sahar()
 me.say_hi()
-</pre>
