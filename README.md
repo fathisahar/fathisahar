@@ -8,8 +8,9 @@
 class Sahar:
     def __init__(self):
         self.name = "Sahar Fathi"
-        self.role = "Software Engineering Student"
+        self.role = "Software Engineering Student Co-op"
         self.university = "McGill University"
+        self.year = "3rd"
         self.pronouns = ["she", "her"]
         self.programming_languages = [
             "Java", "JavaFX", "JavaScript", "TypeScript", "Python", "C", "VB", "VBA", "Bash", "OCaml"
@@ -33,3 +34,13 @@ class Sahar:
 
 me = Sahar()
 me.say_hi()
+```
+
+# about me
+
+I'm a third year software engineering student at McGill University. If I'm not studying or coding, then hopefully I'm somewhere travelling. 
+
+I love projects that allow creativity and learning, and I love projects that have the potential of making someone's life a bit easier. 
+
+
+
