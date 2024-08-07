@@ -39,7 +39,6 @@ sahar.say_hi()
 ![Vue.js](https://img.shields.io/badge/Vue.js-%23b93939.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%23b93939.svg?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-%23b93939.svg?style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23b93939.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23b93939.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%23b93939.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
