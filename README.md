@@ -20,7 +20,6 @@ sahar.say_hi()
 ```
 
 ## Languages
-<p align="left">
    ![Python](https://img.shields.io/badge/python-%8cbed6.svg?style=for-the-badge&logo=python&logoColor=white)
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
