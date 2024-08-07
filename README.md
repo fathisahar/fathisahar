@@ -26,9 +26,11 @@ sahar.say_hi()
    ![C](https://img.shields.io/badge/c-%235b99d1.svg?style=for-the-badge&logo=c&logoColor=white)
    ![C++](https://img.shields.io/badge/c++-%235b99d1.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/javascript-%235b99d1.svg?style=for-the-badge&logo=javascript&logoColor=white)
+   ![TypeScript](https://img.shields.io/badge/typescript-%235b99d1.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![Bash](https://img.shields.io/badge/bash-%235b99d1.svg?style=for-the-badge&logo=gnubash&logoColor=white)
    
-## Libraries
+## Libraries & Frameworks
+![Flask](https://img.shields.io/badge/flask-%23674ea7.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23674ea7.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React-Bootstrap](https://img.shields.io/badge/reactbootstrap-%23674ea7.svg?style=for-the-badge&logo=reactbootstrap&logoColor=white)
 
