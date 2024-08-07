@@ -20,61 +20,27 @@ sahar.say_hi()
 ```
 
 ## Languages
-   ![Python](https://img.shields.io/badge/python-%8cbed6.svg?style=for-the-badge&logo=python&logoColor=white)
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://ocaml.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.computerhope.com/jargon/o/ocaml.png" alt="ocaml" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-
+   ![Python](https://img.shields.io/badge/python-%235b99d1.svg?style=for-the-badge&logo=python&logoColor=white)
+   ![Java](https://img.shields.io/badge/java-%235b99d1.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+   ![OCaml](https://img.shields.io/badge/ocaml-%235b99d1.svg?style=for-the-badge&logo=ocaml&logoColor=white)
+   ![C](https://img.shields.io/badge/c-%235b99d1.svg?style=for-the-badge&logo=c&logoColor=white)
+   ![C++](https://img.shields.io/badge/c++-%235b99d1.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/javascript-%235b99d1.svg?style=for-the-badge&logo=javascript&logoColor=white)
+   ![Bash](https://img.shields.io/badge/bash-%235b99d1.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+   
 ## Libraries
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23674ea7.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React-Bootstrap](https://img.shields.io/badge/reactbootstrap-%23674ea7.svg?style=for-the-badge&logo=reactbootstrap&logoColor=white)
 
 ## Tools
-<p align="left">
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://assets-global.website-files.com/6203daf47137054c031fa0e6/63d66b74cca00b70f7fe0127_mysql-logo.png" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgres" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="vue" width="40" height="40"/>
-  </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"
-  />
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://redhat.gallerycdn.vsassets.io/extensions/redhat/ansible/24.5.3000000/1714755427041/Microsoft.VisualStudio.Services.Icons.Default" alt="bash" width="40" height="40"/>
-  </a>
+![SQLite](https://img.shields.io/badge/SQLite-%23b93939.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23b93939.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b93939.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%23b93939.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%23b93939.svg?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%23b93939.svg?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23b93939.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23b93939.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%23b93939.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
 
