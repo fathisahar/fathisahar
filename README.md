@@ -12,7 +12,7 @@ class Me:
         self.univeristy = "McGill University"
 
     def say_hi(self):
-        print(f"hi, i'm sahar and i like to code, mainly web development. thanks for dropping by!")
+        print("hi, i'm sahar and i like to code, mainly web development. thanks for dropping by!")
 
 
 sahar = Me()
