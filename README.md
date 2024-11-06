@@ -12,7 +12,7 @@ class Me:
         self.univeristy = "McGill University"
 
     def say_hi(self):
-        printf("hi, i'm {self.name}, thanks for dropping by!")
+        print(f"hi, i'm {self.name}, thanks for dropping by!")
 
 
 sahar = Me()
