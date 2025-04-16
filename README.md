@@ -38,6 +38,8 @@ sahar.say_hi()
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23674ea7.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%23674ea7.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React-Bootstrap](https://img.shields.io/badge/reactbootstrap-%23674ea7.svg?style=for-the-badge&logo=reactbootstrap&logoColor=white)
+![JUnit](https://img.shields.io/badge/junit-%23674ea7.svg?style=for-the-badge&logo=junit&logoColor=white)
+
 
 ## Tools
 ![Linux](https://img.shields.io/badge/Linux-%23b93939.svg?style=for-the-badge&logo=linux&logoColor=white)
