@@ -8,7 +8,7 @@ class Me:
 
     def __init__(self):
         self.name = "Sahar Fathi"
-        self.role = "3rd year in Software Engineering Co-op"
+        self.role = "4th year in Software Engineering Co-op"
         self.univeristy = "McGill University"
 
     def say_hi(self):
